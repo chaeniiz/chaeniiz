@@ -6,7 +6,7 @@
 
   ##### 🌊 더 친해지고 싶은 사람들을 위한 정보
 
- [![Brunch](https://img.shields.io/badge/-(개발%20이야기는%20없는)%20Brunch-e4e4e4?style=flat-square)](https://brunch.co.kr/@chaeniiz) [![Blog](https://img.shields.io/badge/-(개발%20이야기는%20없는)%20Blog-3d6112?style=flat-square)](https://img.shields.io/badge/-(개발%20이야기는%20없는)%20Blog-3d6112) 
+ [![Brunch](https://img.shields.io/badge/-(개발%20이야기는%20없는)%20Brunch-e4e4e4?style=flat-square)](https://brunch.co.kr/@chaeniiz) [![Blog](https://img.shields.io/badge/-(개발%20이야기는%20없는)%20Blog-3d6112?style=flat-square)](https://chaeniiz.com) 
   
   ![Vegan](http://img.shields.io/badge/-😭%20우리진짜회식할때는제발일이야기안하면안될까요%20모임%20회장-84dcd5?style=flat-square)
   
