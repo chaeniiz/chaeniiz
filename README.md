@@ -12,7 +12,7 @@
   
   [![회식 때 제발 일 이야기 금지](http://img.shields.io/badge/-😭%20우리진짜회식할때는제발일이야기안하면안될까요%20모임%20회장-84dcd5?style=flat-square)](https://github.com/chaeniiz/chaeniiz/blob/main/do-not-work-at-hoesik-recruit.md)
   
-[![MBTI](http://img.shields.io/badge/-🥰%20ENFJ-e0faf3?style=flat-square)](https://www.16personalities.com/ko/성격유형-enfj) [![Vegan](http://img.shields.io/badge/-🌱%20Vegan-eeffdc?style=flat-square)](https://ko.wikipedia.org/wiki/비거니즘) [![Music Lover](http://img.shields.io/badge/-🎶%20Music%20Lover-f6ff00?style=flat-square)](https://youtube.com/playlist?list=PLpvzPo7KbWgC0gjsYFLlsjKy3KGcXLG76) [![Peanut](http://img.shields.io/badge/-🥜%20땅콩이%20반려%20중-614212?style=flat-square)](https://user-images.githubusercontent.com/20873613/132737493-bf7b8cd5-a0d9-46ea-ba35-c41d3d8eadf3.gif)
+[![MBTI](http://img.shields.io/badge/-🥰%20ENFJ-e0faf3?style=flat-square)](https://www.16personalities.com/ko/성격유형-enfj) [![Vegan](http://img.shields.io/badge/-🌱%20Vegan-eeffdc?style=flat-square)](https://ko.wikipedia.org/wiki/비거니즘) [![Music Lover](http://img.shields.io/badge/-🎶%20Music%20Lover-f6ff00?style=flat-square)](https://www.youtube.com/channel/UCgatkeA0OvqneA81YmUEsIg) [![Peanut](http://img.shields.io/badge/-🥜%20땅콩이%20반려%20중-614212?style=flat-square)](https://user-images.githubusercontent.com/20873613/132737493-bf7b8cd5-a0d9-46ea-ba35-c41d3d8eadf3.gif)
 
 </div>
 
