@@ -4,7 +4,7 @@
   
 ##### 안녕! 와 줘서 고마워 나는 채윤 🌊
   
-  [![Android Developer](https://img.shields.io/badge/-Android%20Developer-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://www.linkedin.com/in/채윤-송-335a84194/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chaeniiz)](https://www.instagram.com/chaeniiz) [![Mail](https://img.shields.io/badge/-Mail-FFCD00?&logo=kakao&logoColor=white&style=flat-square&link=mailto:chaeniiz@kakao.com)](mailto:chaeniiz@kakao.com)
+  [![Android Developer](https://img.shields.io/badge/-Android%20Developer-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://www.linkedin.com/in/채윤-송-335a84194/) [![Resume](https://img.shields.io/badge/-Resume-191970?style=flat-square)](https://chaeniiz.com/about/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chaeniiz)](https://www.instagram.com/chaeniiz) [![Mail](https://img.shields.io/badge/-Mail-FFCD00?&logo=kakao&logoColor=white&style=flat-square&link=mailto:chaeniiz@kakao.com)](mailto:chaeniiz@kakao.com)
 
   ##### 🌊 더 친해지고 싶은 사람들을 위한 정보
 
